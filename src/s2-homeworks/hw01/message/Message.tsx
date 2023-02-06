@@ -1,10 +1,8 @@
 import React from 'react'
 import s from './Message.module.css'
-import {MessageType} from "../HW1";
 
-export type MessagePropsType = {
-    message: MessageType
-}
+// нужно создать правильный тип вместо any
+export type MessagePropsType = any
 
 // нужно отобразить приходящие данные
 const Message = (props: MessagePropsType) => {
