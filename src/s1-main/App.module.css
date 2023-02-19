@@ -9,7 +9,7 @@
 .hw {
     display: flex;
     flex-direction: column;
-    padding: 50px 200px 35px 200px;
+    padding: 20px 200px 35px 200px;
     border-bottom: 1px solid #D9D9D9;
     width: 100vw;
 }
