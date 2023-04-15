@@ -8,6 +8,7 @@
 
 .disabled {
     opacity: 0.5;
+    border: #cc0000;
     color: #002E5C;
 }
 
