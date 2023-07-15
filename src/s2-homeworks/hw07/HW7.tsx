@@ -37,7 +37,7 @@ const HW7 = () => {
                     </div>
                     <div>
                         <SuperRadio
-                            id={'hw7-super-radio'}
+                            id={'hw7-super-radio-input'}
                             name={'hw7-radio'}
                             options={arr}
                             value={value}
